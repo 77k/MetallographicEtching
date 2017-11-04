@@ -6,6 +6,8 @@
 
 ## Structural Etching
 
+### Secco Etch
+* 33 Vol.-% K_2Cr_2O_7 0.15 mol. sol. & 66 Vol.-% HF (48%)
 
 ## Removal of Polyimide
 * 25 Vol.-% acetic acid & 75 Vol.-% Ethane-1,2-diamine @ 125 Degree Celsius for (depends on layer thickness) 30 min.
